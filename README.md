@@ -1,16 +1,13 @@
-## Hi there 👋
+## Привет! Я Елена — frontend-разработчик 👋
 
-<!--
-**SweetP35/SweetP35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Разрабатываю интерфейсы на **Vue 3, Nuxt 3, React**: интернет-магазины, личные кабинеты, SPA и лендинги.
 
-Here are some ideas to get you started:
+**Стек:** JavaScript, TypeScript, Vue 3, React, Nuxt 3, Pinia, Vue Router, SCSS, REST API, Vite, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Проекты:**
+- [FilmFinds](https://github.com/SweetP35/FilmFinds-vue) — поиск фильмов, Vue 3 + Strapi
+- [Flower Project](https://github.com/SweetP35/Flower-project-vue) — каталог с админ-панелью
+- [Find the Pair](https://github.com/SweetP35/Find-the-pair-game) — игра с таймером и счётом
+- [Weather Widget](https://github.com/SweetP35/weather-widget) — виджет погоды
+
+📫 Telegram: @Sweet_P35 · Почта: lena-mishenkova-1998@mail.ru
