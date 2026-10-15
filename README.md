@@ -10,5 +10,7 @@
 - [FilmFinds](https://github.com/SweetP35/FilmFinds-vue) — поиск фильмов и избранное · Vue 3, Vuex, Kinopoisk API, Strapi
 - [Weather Widget](https://github.com/SweetP35/weather-widget) — виджет погоды · JavaScript, WeatherAPI
 - [Find the Pair](https://github.com/SweetP35/Find-the-pair-game) — игра с таймером и уровнями сложности · JavaScript
+- [News Feed](https://github.com/SweetP35/vue-news) — лента новостей с адаптивными версиями для desktop и mobile · Vue 3, Vue Router, SCSS
+- [Registration Form](https://github.com/SweetP35/Test-project-react) — форма регистрации с валидацией · Next.js, React, TypeScript, SCSS
 
 📫 Telegram: [@Sweet_P35](https://t.me/Sweet_P35) · Почта: lena-mishenkova-1998@mail.ru
