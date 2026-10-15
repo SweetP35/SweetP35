@@ -5,9 +5,10 @@
 **Стек:** JavaScript, TypeScript, Vue 3, React, Nuxt 3, Pinia, Vue Router, SCSS, REST API, Vite, Git
 
 **Проекты:**
-- [FilmFinds](https://github.com/SweetP35/FilmFinds-vue) — поиск фильмов, Vue 3 + Strapi
-- [Flower Project](https://github.com/SweetP35/Flower-project-vue) — каталог с админ-панелью
-- [Find the Pair](https://github.com/SweetP35/Find-the-pair-game) — игра с таймером и счётом
-- [Weather Widget](https://github.com/SweetP35/weather-widget) — виджет погоды
+- Interview Tracker — учёт собеседований со статистикой · Vue 3, TypeScript, Pinia, Firebase, Chart.js
+- Flower Shop — интернет-магазин с корзиной и фильтрами · Vue 3, Vuex, Strapi
+- FilmFinds — поиск фильмов и избранное · Vue 3, Vuex, Kinopoisk API, Strapi
+- Weather Widget — виджет погоды · JavaScript, WeatherAPI
+- Find the Pair — игра с таймером и уровнями сложности · JavaScript
 
 📫 Telegram: @Sweet_P35 · Почта: lena-mishenkova-1998@mail.ru
